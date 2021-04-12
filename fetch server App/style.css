@@ -1,0 +1,59 @@
+
+#submitForm{
+    background-color: #0837c4; 
+    border: solid 2px rgb(242, 255, 0);
+    border-radius: 5em;
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  #getData{
+    background-color: #04873b; 
+    border: solid 2px rgb(0, 255, 42);
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  #getList{
+    background-color : #04873b;
+    border: solid 2px rgb(0, 255, 42);
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  #firstname{
+ 
+    border: solid 2px  #0837c4; ;
+    color: grey;
+    width: 20%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+#lastname{
+    border: solid 2px  #0837c4; ;
+    color: grey;
+    width: 20%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
